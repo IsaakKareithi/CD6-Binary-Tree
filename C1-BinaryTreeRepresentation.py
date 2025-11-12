@@ -1,7 +1,7 @@
 #Install the binary tree module if you haven't already
-#pip install binary tree
+#pip install binarytree
 
-from binarytree import Node
+class Node:
 
 #create root node
 root = Node(1) 
