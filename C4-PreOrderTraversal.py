@@ -39,6 +39,6 @@ if __name__ == "__main__":
     print(visual_tree)
 
     #printing in-order traversal
-    print("In-order traversal of the binary tree is: ")
+    print("Pre-order traversal of the binary tree is: ")
     print_preorder(root)
     print()
